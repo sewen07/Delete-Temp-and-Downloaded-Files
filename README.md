@@ -16,6 +16,7 @@ This is a script written in Python that deletes your temp files and downloads.
 
 I made this project for learning about scripts, how scripts work and learn how to script (as much as possible).
 
+## Contact
 You can contact me on Discord. 
 ```
 Seven#1101 - My Discord
